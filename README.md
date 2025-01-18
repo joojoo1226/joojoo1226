@@ -32,7 +32,9 @@ Here are some ideas to get you started:
         <img height="220" src="https://streak-stats.demolab.com?user=joojoo1226&amp;locale=en&amp;mode=daily&amp;theme=dark&amp;hide_border=false&amp;border_radius=5&amp;order=3" alt="streak graph"> -->
     </div> 
     </div>
-    
+
+<!-- 잔디 3D로 -->
+![](./profile-3d-contrib/profile-green-animate.svg)    
 
 
 <!-- <img src="https://capsule-render.vercel.app/api?type=모양&color=240B3B&height=높이&section=footer&text=텍스트&fontSize=텍스트크기" /> -->
