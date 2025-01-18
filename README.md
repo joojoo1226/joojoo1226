@@ -28,7 +28,8 @@ Here are some ideas to get you started:
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> 
 <!--         <img src="https://github-readme-stats.vercel.app/api?username=joojoo1226&bg_color=180,f9ecd2,00000000&title_color=000000&text_color=000000" />  -->
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joojoo1226&layout=compact&bg_color=180,f9ecd2,00000000&title_color=000000&text_color=000000" /> 
-        <img height="220" src="https://streak-stats.demolab.com?user=joojoo1226&amp;locale=en&amp;mode=daily&amp;theme=dark&amp;hide_border=false&amp;border_radius=5&amp;order=3" alt="streak graph">
+<!--         <br>
+        <img height="220" src="https://streak-stats.demolab.com?user=joojoo1226&amp;locale=en&amp;mode=daily&amp;theme=dark&amp;hide_border=false&amp;border_radius=5&amp;order=3" alt="streak graph"> -->
     </div> 
     </div>
     
