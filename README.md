@@ -21,12 +21,13 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
     <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
-    <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
+    <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
     <br/>
   </div>
 </div>
 
-<div style="text-align: left;">
+<!-- 스탯 -->
+<!-- <div style="text-align: left;">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>
   <div align="center">
     <picture>
@@ -43,7 +44,7 @@ Here are some ideas to get you started:
     <br>
     <img height="220" src="https://streak-stats.demolab.com?user=joojoo1226&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" alt="streak graph">
   </div>
-</div>
+</div> -->
 
 <!-- 잔디 3D로 -->
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
